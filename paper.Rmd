@@ -1,0 +1,30 @@
+---
+title: "Placeholder for article"
+output: 
+  pdf_document:
+    keep_tex: true
+authors: To add
+date: "`r Sys.setlocale(locale = 'EN'); format(Sys.time(), '%d %B, %Y')`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Depending on the outlet we choose, I will check whether there is an rticles format that we can use. For now, I think that this suffices.
+
+# Introduction
+
+Add text.
+
+# Methods
+
+Add text.
+
+# Results
+
+Add text.
+
+# Discussion and conclusion
+
+Add text.
